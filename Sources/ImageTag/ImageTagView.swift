@@ -3,8 +3,8 @@ import UIKit
 
 public class ImageTagView: UILabel {
     
-    init() {
-        super.init(frame: CGRect.zero)
+    public override func awakeFromNib() {
+        super.awakeFromNib()
     }
     
     /// 添加单个 Tag
