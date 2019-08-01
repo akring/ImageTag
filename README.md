@@ -1,5 +1,8 @@
 ![header](https://raw.githubusercontent.com/akring/ImageTag/master/head.jpg?token=ABRZCZWV3ZOS3MXCMJILMD25IKM7A)
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-swift.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
 # Summary
 
 Tag View for iOS
