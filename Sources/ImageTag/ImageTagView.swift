@@ -3,12 +3,8 @@ import UIKit
 
 public class ImageTagView: UILabel {
     
-    public override init(frame: CGRect) {
-        super.init(frame: frame)
-    }
-    
-    required init?(coder aDecoder: NSCoder) {
-        fatalError("init(coder:) has not been implemented")
+    init() {
+        super.init(frame: CGRect.zero)
     }
     
     /// 添加单个 Tag
