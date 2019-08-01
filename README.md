@@ -1,4 +1,6 @@
-# ImageTag
+![header](https://raw.githubusercontent.com/akring/ImageTag/master/head.jpg?token=ABRZCZWV3ZOS3MXCMJILMD25IKM7A)
+
+# Summary
 
 Tag View for iOS
 
@@ -18,7 +20,7 @@ tagView.addTagArray(tagTextArray: tags, config: config)
 
 Custom tag with `TagConfig`:
 
-```
+```swift
 /// 字体
 public var font: UIFont
 /// 文字颜色
